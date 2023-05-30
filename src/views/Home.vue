@@ -8,7 +8,7 @@ onMounted(async () => {
 });
 </script>
 <template>  
-          <div class="row">
+          <div class="row"> //megha
             <img class="col-md-6" src="/home.png" />
             <div class="col-md-6 left-nav">
               <h2 class="display-3 text-1000 fw-normal title">Let’s make a tour</h2>
